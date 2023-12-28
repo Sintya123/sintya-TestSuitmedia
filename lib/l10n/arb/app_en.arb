@@ -1,0 +1,16 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "name": "Name",
+    "palindrome": "Palindrome",
+    "check": "Check",
+    "next": "Next",
+    "greetingAppBarTitle": "Second Screen",
+    "welcome": "Welcome",
+    "chooseUser": "Choose a User",
+    "welcome": "Welcome",
+    "usersAppBarTitle": "Third Screen"
+}
